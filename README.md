@@ -15,6 +15,6 @@ Dataset provided by Jarred Priester - https://www.kaggle.com/datasets/jarredprie
 
 ## See more here https://www.kaggle.com/code/brettcarpenter/taylor-swift-data-analysis
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://preview.redd.it/2htfahv13k451.png?width=960&crop=smart&auto=webp&v=enabled&s=20bfca1954fd2b8f50d846b99cdd3dfc1aa56f33) "Music Categories Graph")
+![music-graph](https://github.com/user-attachments/assets/a126168f-880a-452d-89ef-0b4628c4fe8e)
 
 
